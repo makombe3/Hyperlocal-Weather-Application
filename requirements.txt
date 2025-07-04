@@ -1,0 +1,6 @@
+keras==3.8.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+django==4.2.10
+requests==2.31.0
